@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main - a program print with printf function.
-* Return : 0 (Success).
+* main - printf function
+* Return: equal 0 mean there is no error
 */
 int main(void)
 {
