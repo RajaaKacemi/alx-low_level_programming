@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-* function puts
-* return : always 0 it means succes
+* main - function print aith puts function.
+* return: always 0 it means success.
 */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle\n");    
+	puts("\"Programming is like building a multilingual puzzle");   
 	return (0);
 }
