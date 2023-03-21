@@ -9,9 +9,7 @@ int main(void)
 
 	char c = '\n';
 	for (i = 97; i < 123; i++)
-	{
 		putchar(i);
-	}
 	putchar(c);
 	return (0);
 }
