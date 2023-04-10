@@ -7,8 +7,7 @@
  * Return: Always 0(Success)
  */
 int main(int args, char *argv[])
-{      
-
-	printf("%s\n", argv[args-1]);
+{
+	printf("%s\n", argv[args - 1]);
 	return (0);
 }
