@@ -1,5 +1,4 @@
-#include "calc.h"
-#include <stdio.h>
+#include "3-calc.h"
 
 /**
   * get_op_func - unction that selects the correct function to

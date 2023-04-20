@@ -1,6 +1,4 @@
-#include "calc.h"
-#include "3-op_functions.c"
-#include "3-get_op_func.c"
+#include "3-calc.h"
 
 /**
   * main - the entry point
@@ -9,7 +7,7 @@
   * Return: 0 success
  */
 
-int main(int argc, int argv[])
+int main(int argc, char* argv[])
 {
 	int a, b;
 	int (*op_func)(int, int);
