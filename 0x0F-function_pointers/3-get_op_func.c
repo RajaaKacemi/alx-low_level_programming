@@ -4,7 +4,7 @@
   * get_op_func - unction that selects the correct function to
   * perform the operation asked by the user.
   * @s:  is the operator passed as argument to the program.
-  * Return: an index integer to select the right function
+  * Return: a function
  */
 
 int (*get_op_func(char *s))(int, int)
