@@ -2,7 +2,7 @@
 
 /**
  * print_binary - a function that prints the binary representation of a number.
- * @n: the number that we are goin to convert 
+ * @n: the number that we are goin to convert
  * Return: nothing
  */
 
