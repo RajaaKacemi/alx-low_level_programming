@@ -5,15 +5,15 @@
  * @filename: pointer to the file
  * @letters:  is the number of letters it should read and print
  * Return: number of letters it could read and print
- * 0 if its fails, also if the filename is NULL, and if write fails 
+ * 0 if its fails, also if the filename is NULL, and if write fails
  * or it doses not  write the expected amount of bytes.
  */
 
 ssize_t read_textfile(const char *filename, size_t letters)
 {
-	ssize_t nbrBytes,nbB;
+	ssize_t nbrBytes, nbB;
 	int fd;
-	char* Buf;
+	char *Buf;
 
 	if (!filename)
 		return (0);
