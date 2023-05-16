@@ -1,1 +1,4 @@
-djj
+# ----- THIS IS SIMPLE SHELL PROJECT -----
+
+
+
